@@ -1,0 +1,7 @@
+name: GadgetExample
+main: com.altitudemc.ctd.gadgetexample.core.GadgetExampleMain
+author: ctd
+description: Example usage of GadgetAPI
+version: 1.0
+commands:
+  
